@@ -8,4 +8,8 @@
         "src": "/(.*)",
         "dest": "newtrain/wsgi.py"
     }]
+    "rewrites": [{ 
+        "source": "/(.*)", 
+        "destination": "/" 
+    }]
 }
