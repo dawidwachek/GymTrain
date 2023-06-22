@@ -12,4 +12,5 @@
         "source": "/(.*)", 
         "destination": "/" 
     }]
+    "framework": "django"
 }
