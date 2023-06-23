@@ -1,7 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
 
 :root {
-    --clr-background: #4e4f80;
+    --clr-background2: #70ca83;
+    --clr-background1: #4e4f80;
     --clr-text:#ffffff;
     --clr-secondary-text:#6d83ff;
 }
@@ -15,7 +16,7 @@
 }
 
 body{
-    background: var(--clr-background);
+    background: var(--clr-background1);
     color: var(--clr-text)
 
 }
